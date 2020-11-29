@@ -1,0 +1,1 @@
+let s = 'lsy is a pig';
